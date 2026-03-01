@@ -1,1 +1,1 @@
-# Adop-me-value
+# Adopt-me-value
